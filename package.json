@@ -1,0 +1,14 @@
+{
+  "name": "jb55-has-box-sizing",
+  "description": "Returns true if the browser has box sizing",
+  "version": "0.0.1",
+  "keywords": [
+    "has",
+    "support",
+    "box-sizing",
+    "box"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
